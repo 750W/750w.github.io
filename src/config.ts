@@ -21,6 +21,11 @@ export const PAGES = [
     active: "stats",
   },
   {
+    name: "Members",
+    href: "/members",
+    active: "members",
+  },
+  {
     name: "About",
     href: "/about",
     active: "about",

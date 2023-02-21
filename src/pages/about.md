@@ -13,9 +13,4 @@ Our team has seen great success in recent years, winning multiple awards at regi
 
 In addition to our competitive achievements, we also place a strong emphasis on teamwork, collaboration, and learning. We believe that the skills and experiences gained through robotics extend far beyond the competition arena, and are beneficial for a career in any STEM field.
 
-## Members
-
-### Gyan Mohanty, Captain
-
-<img src="/assets/members/gyan.png" alt="Gyan Mohanty" width="200" height="200">
 
