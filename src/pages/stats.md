@@ -12,3 +12,11 @@ title: "Stats"
 | Camden County Technical School       | #15     | 4   | 50  | 174 | 36.1 | 11.2 | 24.9  |
 | Sparta High School                   | #37     | 4   | 0   | 121 | 9.2  | 5.8  | 3.4   |
 | VRC Spin Up SUNDAY Showdown          | #12     | 6   | 35  | 306 | 26.1 | 50.3 | -24.2 |
+
+## Turning Point
+
+- Camden County Technical Competition: Excellence Award
+- Qualified for NJ States Competition
+- Qualified for National Open in Iowa (1/90 teams)
+  - Could not attend due to COVID-19
+
