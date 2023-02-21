@@ -1,5 +1,5 @@
 {
-  "name": "astro-paper",
+  "name": "750W website",
   "version": "2.1.0",
   "private": false,
   "scripts": {
@@ -12,7 +12,6 @@
     "format:check": "prettier --plugin-search-dir=. --check .",
     "format": "prettier --plugin-search-dir=. --write .",
     "cz": "cz",
-    "prepare": "husky install",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -48,10 +47,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "lint-staged": {
-    "*": [
-      "prettier --plugin-search-dir=. --write"
-    ]
   }
 }
