@@ -13,7 +13,8 @@ import Socials from "@components/Socials.astro";
     <section id="hero">
       <h1>Team 750 Wolves</h1>
       <p>
-        We are team 750 Wolves, a <LinkButton
+        We are team 750 Wolves, a
+        <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://www.vexrobotics.com/v5/competition/vrc-current-game"
         >
@@ -35,23 +36,23 @@ import Socials from "@components/Socials.astro";
     <Hr />
   </main>
   <Footer />
-</Layout>
 
-<style>
-  /* ===== Hero Section ===== */
-  #hero {
-    @apply pt-8 pb-6;
-  }
-  #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
-  }
-  #hero p {
-    @apply my-2;
-  }
-  .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
-  }
-  .social-links {
-    @apply mr-2 mb-1 whitespace-nowrap sm:mb-0;
-  }
-</style>
+  <style>
+    /* ===== Hero Section ===== */
+    #hero {
+      @apply pt-8 pb-6;
+    }
+    #hero h1 {
+      @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+    }
+    #hero p {
+      @apply my-2;
+    }
+    .social-wrapper {
+      @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+    }
+    .social-links {
+      @apply mr-2 mb-1 whitespace-nowrap sm:mb-0;
+    }
+  </style>
+</Layout>

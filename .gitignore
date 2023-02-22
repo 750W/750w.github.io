@@ -21,3 +21,7 @@ pnpm-debug.log*
 
 # ignore .astro directory
 .astro
+
+# vale lint
+.vale.ini
+
