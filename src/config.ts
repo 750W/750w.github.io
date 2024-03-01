@@ -1,8 +1,8 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://750W.team",
-  author: "Ved Kothavade",
+  website: "https://750w.github.io/website",
+  author: "750W",
   desc: "750W is a VEX Robotics team from South Brunswick, NJ.",
   title: "750 Wolves",
   ogImage: "astropaper-og.jpg",
@@ -12,22 +12,22 @@ export const SITE = {
 export const PAGES = [
   {
     name: "Outreach",
-    href: "/outreach",
+    href: "/website/outreach",
     active: "outreach",
   },
   {
     name: "Stats",
-    href: "/stats",
+    href: "/website/stats",
     active: "stats",
   },
   {
     name: "Members",
-    href: "/members",
+    href: "/website/members",
     active: "members",
   },
   {
     name: "About",
-    href: "/about",
+    href: "/website/about",
     active: "about",
   },
 ];
