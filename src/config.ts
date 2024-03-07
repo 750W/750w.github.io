@@ -30,6 +30,11 @@ export const PAGES = [
     href: "/about",
     active: "about",
   },
+  {
+    name: "Pathy",
+    href: "/pathy",
+    active: "pathy",
+  }
 ];
 
 export const LOGO_IMAGE = {
