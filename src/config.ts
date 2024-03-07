@@ -12,22 +12,22 @@ export const SITE = {
 export const PAGES = [
   {
     name: "Outreach",
-    href: "/website/outreach",
+    href: "/outreach",
     active: "outreach",
   },
   {
     name: "Stats",
-    href: "/website/stats",
+    href: "/stats",
     active: "stats",
   },
   {
     name: "Members",
-    href: "/website/members",
+    href: "/members",
     active: "members",
   },
   {
     name: "About",
-    href: "/website/about",
+    href: "/about",
     active: "about",
   },
 ];
