@@ -1,7 +1,7 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://750w.github.io/website",
+  website: "https://750w.github.io",
   author: "750W",
   desc: "750W is a VEX Robotics team from South Brunswick, NJ.",
   title: "750 Wolves",
