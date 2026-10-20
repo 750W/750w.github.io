@@ -5,7 +5,7 @@ title: "About"
 
 ## Who are we?
 
-We are 750W, a team of dedicated robotics students enrolled in South Brunswick High School, which is located in Monmouth Junction, New Jersey. Our team consists of 13 members, representing a diverse range of backgrounds and skill sets.
+We are 750W, a team of dedicated robotics students enrolled in South Brunswick High School, which is located in Monmouth Junction, New Jersey. Our team consists of 10 members, representing a diverse range of backgrounds and skill sets.
 
 Throughout the year, we participate in various robotics competitions, and also organize outreach events, where we share our love of technology with the community and inspire the next generation of engineers and scientists.
 
