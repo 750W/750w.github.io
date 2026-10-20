@@ -7,7 +7,7 @@ title: "Stats"
 
 _The 2026–2027 season has just begun - results will be posted as competitions are completed._
 
-## Push Back
+## Push Back — 25-10-0 (71%) (+29%)
 
 | Competition Name                                       | Ranking | WP  | AP  | SP  |
 | ------------------------------------------------------ | ------- | --- | --- | --- |
@@ -18,7 +18,7 @@ _The 2026–2027 season has just begun - results will be posted as competitions 
 | Camden Catholic High School VEX V5 Push Back Tournament | #11     | 9   | 40  | 124 |
 | Push Back at Cedar Grove                                | #16     | 7   | 30  | 91  |
 
-## High Stakes
+## High Stakes — 16-20-2 (42%) (-2%)
 
 | Competition Name                                    | Ranking | WP  | AP  | SP  |
 | --------------------------------------------------- | ------- | --- | --- | --- |
@@ -29,7 +29,7 @@ _The 2026–2027 season has just begun - results will be posted as competitions 
 | CCHS High Stakes Tournament                         | #14     | 8   | 6   | 39  |
 | Cherry Hill East Red Pill/Blue Pill High Stakes      | #23     | 5   | 18  | 66  |
 
-## Over Under
+## Over Under — 18-23-0 (44%)
 
 | Competition Name                     | Ranking | WP  | AP  | SP  | OPR  | DPR  | CCWM  |
 | ------------------------------------ | ------- | --- | --- | --- | ---- | ---- | ----- |
