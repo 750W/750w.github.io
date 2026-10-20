@@ -3,6 +3,32 @@ layout: ../layouts/PageLayout.astro
 title: "Stats"
 ---
 
+## Override
+
+_The 2026–2027 season has just begun - results will be posted as competitions are completed._
+
+## Push Back
+
+| Competition Name                                       | Ranking | WP  | AP  | SP  |
+| ------------------------------------------------------ | ------- | --- | --- | --- |
+| **_VEX V5 Push Back NJ State Championship_**           | #23     | 9   | 60  | 128 |
+| Pirate Popoff '26 VEX V5 Tournament                    | #8      | 11  | 30  | 152 |
+| **_SBHS Robotics VEX V5 Push Back Tournament_**        | #3      | 11  | 30  | 85  |
+| Push Back at the Coliseum                               | #14     | 9   | 40  | 21  |
+| Camden Catholic High School VEX V5 Push Back Tournament | #11     | 9   | 40  | 124 |
+| Push Back at Cedar Grove                                | #16     | 7   | 30  | 91  |
+
+## High Stakes
+
+| Competition Name                                    | Ranking | WP  | AP  | SP  |
+| --------------------------------------------------- | ------- | --- | --- | --- |
+| **_VEX V5 High Stakes NJ State Championship_**      | #37     | 4   | 18  | 164 |
+| Franklin High School - High Stakes at the Coliseum  | #29     | 2   | 12  | 69  |
+| **_SBHS Robotics V5RC High Stakes_**                | #15     | 9   | 18  | 93  |
+| Colts Neck High School High Stakes                  | #10     | 10  | 24  | 72  |
+| CCHS High Stakes Tournament                         | #14     | 8   | 6   | 39  |
+| Cherry Hill East Red Pill/Blue Pill High Stakes      | #23     | 5   | 18  | 66  |
+
 ## Over Under
 
 | Competition Name                     | Ranking | WP  | AP  | SP  | OPR  | DPR  | CCWM  |
