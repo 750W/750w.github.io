@@ -3,90 +3,62 @@ layout: ../layouts/PageLayout.astro
 title: "Members"
 ---
 
-### Arav Pyati, Captain & Head Builder
+### Ram Viswanathan, Captain
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350310009389257/image.png" alt="Arav Pyati" width="200" height="200">
+<img src="/assets/members/ram.jpg" alt="Ram Viswanathan" width="200" height="200">
 
-> Hakuna Matata
+Ram is a senior at South Brunswick High School and is the captain of team 750W. In his free time, he enjoys playing soccer, listening to music, and he plays for a professional fifa team, Inter Brunswick FC.
 
-Arav is a senior at SBHS. On 750W, he serves as the Captain and as a builder. Other than robotics, Arav swims for his school team and is on the Science Olympiad team. His interests include keyboards and Rubik’s Cubes.
+### Samuel Asefa, Build Lead
 
-### Ajay Avasi, Vice Captain & Builder
+<img src="/assets/members/samuel.jpg" alt="Samuel Asefa" width="200" height="200">
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077352257563148288/image.png" alt="Ajay Avasi" width="200" height="200">
+Sammy is a senior at South Brunswick High School and is Build Lead on 750W. In his free time he enjoys playing soccer as well as spending time with friends and with his cats.
 
-> Your emotions do not matter.
+### Daksh Gupta, Programming Lead
 
-Ajay is a junior at SBHS. He is Co-Vice Captain and a programmer on 750W. In his free time, Ajay likes to play tennis and practice his instrument.
+<img src="/assets/members/daksh.jpg" alt="Daksh Gupta" width="200" height="200">
 
-### Aishi Chell, Vice Captian & Builder
+Daksh is a senior at South Brunswick High School and is Programming Lead on 750W. In his free time, he enjoys programming, biking, playing his instrument, and going camping with his boy scouts troop.
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077349765714542652/image.png" alt="Aishi Chell" width="200" height="200">
+### Samyuktha Raja, Co-President
 
-Aishi is a junior at South Brunswick High School. She is Co-Vice Captain and is a builder on 750W. In her free time, Aishi likes to dance, sing and run outside.
+<img src="/assets/members/samyuktha.jpg" alt="Samyuktha Raja" width="200" height="200">
 
-### Adish Rout, Builder & Workshop Lead
+Samyuktha is a senior at South Brunswick High School and is Co-President of the club. In her free time she enjoys going out with friends, larping, trying new activities and making new foods.
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077349864893067405/image.png" alt="Adish Rout" width="200" height="200">
+### Aiden Cheng, Member
 
-> Seek Discomfort
+<img src="/assets/members/aiden.jpg" alt="Aiden Cheng" width="200" height="200">
 
-Adish is a senior at South Brunswick High School and is a builder on 750W. In his free time, Adish likes to reading non-fiction and watching netflix.
+Aiden is a senior at South Brunswick High School and is on 750W. He likes music, and plays chess during his free time.
 
-### Prisha Inamdar, VLA Representative & Builder
+### Piya Sadana, Member
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350016001249400/image.png" alt="Rahi Thaker" width="200" height="200">
+<img src="/assets/members/piya.jpg" alt="Piya Sadana" width="200" height="200">
 
-> Robotics is the best
+Piya is a junior at South Brunswick High School and is a recruit on 750W. In her free time, she does ballet and enjoys reading books.
 
-Prisha is a senior at South Brunswick High School and is a builder on 750W. Outside of school, Prisha likes to sing Hindustani Classical music, dance, and play field hockey.
+### Anvita Annaluru, Member
 
-### Rahi Thaker, Builder
+<img src="/assets/members/anvita.jpg" alt="Anvita Annaluru" width="200" height="200">
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350371984429107/image.png" alt="Prisha Inamdar" width="200" height="200">
+Anvita is a sophomore at South Brunswick High School and is a recruit on 750W. In her free time, she likes to paint, crochet, hangout with friends, and play with her dog.
 
-Rahi is a senior and a builder on 750W. Outside of robotics, Rahi enjoys playing badminton and tennis. Her hobbies also include art, socializing, working, and volunteering at the hospital.
+### Abhiram Duvvuri, Member
 
-### Sahas Maduri, Lead Programmer
+<img src="/assets/members/abhiram.jpg" alt="Abhiram Duvvuri" width="200" height="200">
 
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350236479041626/image.png" alt="Sahas Maduri" width="200" height="200">
+Abhiram is a sophomore at South Brunswick High School and is a recruit on 750W. In his free time, he likes to play his flute, play video games, and code.
 
-Sahas is a junior at South Brunswick High School and is a programmer on 750W. In his free time, Sahas likes to play basketball and volleyball, and likes to play video games or hang out with his friends.
+### Daniel Joseph, Member
 
-### Aiden Cheng, Builder
+<img src="/assets/members/daniel.jpg" alt="Daniel Joseph" width="200" height="200">
 
-<img src="" alt="Aiden Cheng" width="200" height="200">
+Daniel is a freshman at South Brunswick High School and is a recruit on 750W. In his free time he enjoys to play chess and hang out with friends.
 
-> If theres a will, there's a way
+### Aaradhya Singh, Member
 
-Aiden is a sophomore at South Brunswick High School and is on 750W. He likes music, and plays chess during his free time.
+<img src="/assets/members/aaradhya.jpg" alt="Aaradhya Singh" width="200" height="200">
 
-### Samuel Asefa, CAD Lead & Programmer
-
-<img src="" alt="Samuel Asefa" width="200" height="200">
-
-Sammy is a sophomore at South Brunswick High School and is a recruit on 750W. In his free time he enjoys playing soccer as well as spending time with friends and with his cats.
-
-### Daksh Gupta, Programmer
-
-<img src="" alt="Daksh Gupta" width="200" height="200">
-
-Daksh is a sophomore at South Brunswick High School and is a recruit on 750W. In his free time, he enjoys programming, biking, playing his instrument, and going camping with his boy scouts troop.
-
-### Samyuktha Raja, Builder & Noteboom Lead
-
-<img src="" alt="Samyuktha Raja" width="200" height="200">
-
-Samyuktha is a sophomore at South Brunswick High School and is a recruit on 750W. In her free time she enjoys going out with friends, trying new activities and making new foods.
-
-### Ram Viswanathan, Team Mascot & Builder 😊
-
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350598422315108/image.png" alt="Ram Viswanathan" width="200" height="200">
-
-Ram is a sophomore at South Brunswick High School and is a recruit on 750W. In his free time, he enjoys playing volleyball, listening to music, and going to Six Flags with his friends.
-
-### Piya Sadana, Recruit & Builder
-
-<img src="https://cdn.discordapp.com/attachments/1022618682804940911/1077350705100230787/image.png" alt="Piya Sadana" width="200" height="200">
-
-Piya is a freshman at South Brunswick High School and is a recruit on 750W. In her free time, she does ballet and enjoys reading books. 
+Aaradhya is a freshman at South Brunswick High School and is a recruit on 750W. During her freetime she likes playing basketball, working on Technology Student Association, and hanging out with her friends.
