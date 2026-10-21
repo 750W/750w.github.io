@@ -3,13 +3,11 @@ layout: ../layouts/PageLayout.astro
 title: "Outreach"
 ---
 
-## Plunging into Python
+## [RoboZone](https://github.com/robozonehq)
 
-Ishaan, our Vice-Captain, spearheaded an initiative to introduce younger children (9 - 14) to programming through Python. They would be familiarized to the basics of computer science, which are essential for robotics, which is in the interests of the club, and we wanted to have an impact on our community.
+Samuel and Daksh, Co-Founders and Co-Presidents of [RoboZone](https://github.com/robozonehq), launched the organization in March 2024 to introduce students in our community to the world of robotics. Through hands-on workshops and demonstrations, we teach the fundamentals of building, programming, and competing, inspiring the next generation of engineers and scientists!
 
-Our pilot class had 13 members, which we were really excited about, and they learned the basics of control flow, variables, loops, modules (particularity `random`).
-
-<img  src="/assets/img/outreach/1.jpg"  width="400"  height="300"  alt="">
+<img src="/assets/outreach/robozone.png" width="400" height="300" alt="RoboZone">
 
 ## Girl Powered Events
 
